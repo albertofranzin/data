@@ -1,0 +1,2160 @@
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m12.345s
+user	0m11.908s
+sys	0m0.302s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.925s
+user	0m0.774s
+sys	0m0.077s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m19.515s
+user	0m19.080s
+sys	0m0.303s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m1.127s
+user	0m0.767s
+sys	0m0.076s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m13.767s
+user	0m13.266s
+sys	0m0.389s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.915s
+user	0m0.781s
+sys	0m0.074s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m10.059s
+user	0m9.682s
+sys	0m0.308s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.818s
+user	0m0.704s
+sys	0m0.065s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m10.103s
+user	0m9.744s
+sys	0m0.281s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m1.057s
+user	0m0.714s
+sys	0m0.066s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m12.745s
+user	0m12.384s
+sys	0m0.294s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.825s
+user	0m0.707s
+sys	0m0.068s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m11.952s
+user	0m11.552s
+sys	0m0.328s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.828s
+user	0m0.711s
+sys	0m0.062s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m13.295s
+user	0m12.896s
+sys	0m0.320s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m1.114s
+user	0m0.778s
+sys	0m0.072s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m12.321s
+user	0m11.847s
+sys	0m0.399s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.903s
+user	0m0.771s
+sys	0m0.076s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m18.858s
+user	0m17.925s
+sys	0m0.829s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m1.114s
+user	0m0.781s
+sys	0m0.068s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m17.157s
+user	0m16.394s
+sys	0m0.663s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.863s
+user	0m0.750s
+sys	0m0.055s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m17.474s
+user	0m17.087s
+sys	0m0.283s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m1.045s
+user	0m0.705s
+sys	0m0.070s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m10.450s
+user	0m10.098s
+sys	0m0.270s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.817s
+user	0m0.693s
+sys	0m0.074s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m9.926s
+user	0m9.580s
+sys	0m0.270s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.831s
+user	0m0.713s
+sys	0m0.059s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m11.570s
+user	0m11.132s
+sys	0m0.356s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m1.152s
+user	0m0.745s
+sys	0m0.081s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m13.565s
+user	0m12.966s
+sys	0m0.450s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.900s
+user	0m0.747s
+sys	0m0.087s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m14.500s
+user	0m13.812s
+sys	0m0.568s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.914s
+user	0m0.783s
+sys	0m0.068s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m13.046s
+user	0m12.375s
+sys	0m0.334s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.830s
+user	0m0.716s
+sys	0m0.060s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m12.417s
+user	0m12.024s
+sys	0m0.304s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.822s
+user	0m0.704s
+sys	0m0.063s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m9.995s
+user	0m9.617s
+sys	0m0.286s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m1.078s
+user	0m0.722s
+sys	0m0.062s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.396s
+user	0m2.265s
+sys	0m0.076s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.637s
+user	0m0.551s
+sys	0m0.044s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m3.935s
+user	0m3.800s
+sys	0m0.071s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.641s
+user	0m0.543s
+sys	0m0.058s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.181s
+user	0m2.064s
+sys	0m0.070s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.649s
+user	0m0.552s
+sys	0m0.056s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.169s
+user	0m2.028s
+sys	0m0.084s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.648s
+user	0m0.538s
+sys	0m0.060s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.577s
+user	0m1.445s
+sys	0m0.072s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.653s
+user	0m0.544s
+sys	0m0.066s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.357s
+user	0m2.224s
+sys	0m0.075s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.644s
+user	0m0.542s
+sys	0m0.058s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m3.047s
+user	0m2.902s
+sys	0m0.084s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.648s
+user	0m0.531s
+sys	0m0.065s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.903s
+user	0m1.784s
+sys	0m0.074s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.648s
+user	0m0.541s
+sys	0m0.067s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.943s
+user	0m1.811s
+sys	0m0.076s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.643s
+user	0m0.525s
+sys	0m0.068s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.172s
+user	0m2.045s
+sys	0m0.072s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.837s
+user	0m0.531s
+sys	0m0.065s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.717s
+user	0m2.595s
+sys	0m0.062s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.725s
+user	0m0.598s
+sys	0m0.060s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.688s
+user	0m2.532s
+sys	0m0.091s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.712s
+user	0m0.586s
+sys	0m0.069s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.740s
+user	0m1.584s
+sys	0m0.087s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.688s
+user	0m0.560s
+sys	0m0.071s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.647s
+user	0m2.470s
+sys	0m0.103s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.691s
+user	0m0.561s
+sys	0m0.069s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m3.430s
+user	0m3.281s
+sys	0m0.083s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.726s
+user	0m0.576s
+sys	0m0.081s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m3.465s
+user	0m3.318s
+sys	0m0.081s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.699s
+user	0m0.576s
+sys	0m0.066s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.916s
+user	0m2.753s
+sys	0m0.093s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.733s
+user	0m0.587s
+sys	0m0.072s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.716s
+user	0m1.567s
+sys	0m0.082s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.710s
+user	0m0.587s
+sys	0m0.059s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m4.647s
+user	0m4.472s
+sys	0m0.108s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.947s
+user	0m0.585s
+sys	0m0.068s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.872s
+user	0m1.707s
+sys	0m0.100s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.688s
+user	0m0.565s
+sys	0m0.064s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.661s
+user	0m1.503s
+sys	0m0.093s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.716s
+user	0m0.586s
+sys	0m0.062s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.708s
+user	0m2.557s
+sys	0m0.082s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.695s
+user	0m0.578s
+sys	0m0.061s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.235s
+user	0m2.070s
+sys	0m0.092s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.713s
+user	0m0.570s
+sys	0m0.069s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.780s
+user	0m2.617s
+sys	0m0.082s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.672s
+user	0m0.558s
+sys	0m0.060s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m4.133s
+user	0m3.994s
+sys	0m0.079s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.660s
+user	0m0.547s
+sys	0m0.061s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m6.712s
+user	0m6.554s
+sys	0m0.100s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.649s
+user	0m0.536s
+sys	0m0.062s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.426s
+user	0m1.308s
+sys	0m0.073s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.635s
+user	0m0.521s
+sys	0m0.073s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.327s
+user	0m2.204s
+sys	0m0.076s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.887s
+user	0m0.555s
+sys	0m0.050s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.592s
+user	0m2.449s
+sys	0m0.077s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.658s
+user	0m0.547s
+sys	0m0.058s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.078s
+user	0m1.952s
+sys	0m0.081s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.643s
+user	0m0.534s
+sys	0m0.067s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m3.358s
+user	0m3.218s
+sys	0m0.087s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.640s
+user	0m0.543s
+sys	0m0.056s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.330s
+user	0m1.186s
+sys	0m0.087s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.646s
+user	0m0.547s
+sys	0m0.058s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.029s
+user	0m1.909s
+sys	0m0.072s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.634s
+user	0m0.540s
+sys	0m0.054s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.797s
+user	0m1.683s
+sys	0m0.072s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.644s
+user	0m0.536s
+sys	0m0.066s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m1.551s
+user	0m1.417s
+sys	0m0.072s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.643s
+user	0m0.527s
+sys	0m0.062s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m21.597s
+user	0m21.449s
+sys	0m0.079s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.899s
+user	0m0.545s
+sys	0m0.065s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m12.984s
+user	0m12.821s
+sys	0m0.091s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.689s
+user	0m0.552s
+sys	0m0.075s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m5.379s
+user	0m5.210s
+sys	0m0.096s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.736s
+user	0m0.580s
+sys	0m0.080s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.333s
+user	0m2.175s
+sys	0m0.091s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.668s
+user	0m0.536s
+sys	0m0.071s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m2.523s
+user	0m2.372s
+sys	0m0.081s
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error in if (levels[i] == 0) quant[, i] <- as.matrix(data[, i], nr, 1) else { : 
+  missing value where TRUE/FALSE needed
+Calls: read.dataset -> quantize.matrix
+Execution halted
+
+real	0m0.696s
+user	0m0.566s
+sys	0m0.072s

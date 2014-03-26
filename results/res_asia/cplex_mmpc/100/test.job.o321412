@@ -1,0 +1,152 @@
+##################
+
+
+[1] "asia/asia_100_13"
+
+
+
+###############
+
+
+[1] "Starting MMPC..."
+cpcMat  1 :  0 0 0 0 0 0 0 0 
+cpcMat  2 :  0 0 1 0 1 1 0 0 
+cpcMat  3 :  0 1 0 1 1 0 0 0 
+cpcMat  4 :  0 0 1 0 1 1 0 0 
+cpcMat  5 :  0 1 1 1 0 0 0 1 
+cpcMat  6 :  0 1 0 1 0 0 0 0 
+cpcMat  7 :  0 0 0 0 0 0 0 0 
+cpcMat  8 :  0 0 0 0 1 0 0 0 
+     [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8]
+[1,]    0    0    0    0    0    0    0    0
+[2,]    0    0    1    0    1    1    0    0
+[3,]    0    1    0    1    1    0    0    0
+[4,]    0    0    1    0    1    1    0    0
+[5,]    0    1    1    1    0    0    0    1
+[6,]    0    1    0    1    0    0    0    0
+[7,]    0    0    0    0    0    0    0    0
+[8,]    0    0    0    0    1    0    0    0
+cpcMat  1 :  0 0 0 0 0 0 0 0 
+cpcMat  2 :  0 0 1 0 0 1 0 0 
+cpcMat  3 :  0 1 0 1 1 0 0 0 
+cpcMat  4 :  0 0 1 0 0 1 0 0 
+cpcMat  5 :  0 0 1 0 0 0 0 1 
+cpcMat  6 :  0 1 0 1 0 0 0 0 
+cpcMat  7 :  0 0 0 0 0 0 0 0 
+cpcMat  8 :  0 0 0 0 1 0 0 0 
+[1] "MMPC done"
+     [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8]
+[1,]    0    0    0    0    0    0    0    0
+[2,]    0    0    1    0    0    1    0    0
+[3,]    0    1    0    1    1    0    0    0
+[4,]    0    0    1    0    0    1    0    0
+[5,]    0    0    1    0    0    0    0    1
+[6,]    0    1    0    1    0    0    0    0
+[7,]    0    0    0    0    0    0    0    0
+[8,]    0    0    0    0    1    0    0    0
+[1] 0
+[1] 0
+[1] 0
+[1] 0
+[1] 0
+Tried aggregator 0 times.
+No LP presolve or aggregator reductions.
+Presolve time = 0.00 sec. (0.00 ticks)
+[1] 0
+[1] "creating indicator variables for edges..."
+[1] "done"
+[1] "creating indicator variables for CPCs, with their score..."
+[1] "- evaluating node 1"
+  (has 0 possible parents, and therefore up to 1 candidate parent sets to evaluate)
+[1] "- evaluating node 2"
+  (has 2 possible parents, and therefore up to 4 candidate parent sets to evaluate)
+[1] 1
+1 / 2 
+[1] 2
+1 / 1 
+[1] "- evaluating node 3"
+  (has 3 possible parents, and therefore up to 8 candidate parent sets to evaluate)
+[1] 1
+1 / 3 
+[1] 2
+0 / 3 
+[1] "- evaluating node 4"
+  (has 2 possible parents, and therefore up to 4 candidate parent sets to evaluate)
+[1] 1
+1 / 2 
+[1] 2
+1 / 1 
+[1] "- evaluating node 5"
+  (has 2 possible parents, and therefore up to 4 candidate parent sets to evaluate)
+[1] 1
+2 / 2 
+[1] 2
+0 / 1 
+[1] "- evaluating node 6"
+  (has 2 possible parents, and therefore up to 4 candidate parent sets to evaluate)
+[1] 1
+2 / 2 
+[1] 2
+1 / 1 
+[1] "- evaluating node 7"
+  (has 0 possible parents, and therefore up to 1 candidate parent sets to evaluate)
+[1] "- evaluating node 8"
+  (has 1 possible parents, and therefore up to 2 candidate parent sets to evaluate)
+[1] 1
+2 / 1 
+[1] "done"
+[1] "populating problem..."
+[1] " - adding directionality constraints..."
+[1] "   directionality constraints added"
+[1] " - adding bounding constraints..."
+[1] "   bounding constraints added"
+[1] "done"
+[1] "asia/asia_100_13.scores"
+[1] "###################"
+num CPCS vars:  20 
+Default variable names x1, x2 ... being created.
+Default row names c1, c2 ... being created.
+[1] 0
+Default variable names x1, x2 ... being created.
+Default row names c1, c2 ... being created.
+[1] 0
+Clique table members: 47.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: traditional branch-and-cut.
+Parallel mode: none, using 1 thread.
+Root relaxation solution time = 0.00 sec. (0.06 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+      0     0     -219.4441    12                   -219.4441       17         
+graph is acyclic: got a feasible solution in hand
+TODO: save it...
+*     0+    0                         -236.8830     -219.4441       17    7.36%
+      0     0     -233.9626    12     -236.8830      Cuts: 44       31    1.23%
+graph is acyclic: got a feasible solution in hand
+TODO: save it...
+*     0     0      integral     0     -235.3918       Cuts: 6       32    0.00%
+      0     0        cutoff           -235.3918     -235.3918       32    0.00%
+Elapsed time = 0.01 sec. (0.73 ticks, tree = 0.00 MB, solutions = 2)
+
+Clique cuts applied:  25
+Cover cuts applied:  4
+Implied bound cuts applied:  7
+Zero-half cuts applied:  1
+Gomory fractional cuts applied:  4
+
+Root node processing (before b&c):
+  Real time             =    0.01 sec. (0.73 ticks)
+Sequential b&c:
+  Real time             =    0.00 sec. (0.00 ticks)
+                          ------------
+Total (root+branch&cut) =    0.01 sec. (0.73 ticks)
+----
+final cost: -235.391826
+-----
+[1] "stats & fun facts:"
+# nodes:      8 
+# cpcs vars:  20 
+# edge vars:  64 
+net:  [1][2][3][4][5|3][6|2,4][7][8|5] 

@@ -1,0 +1,17 @@
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	31m16.293s
+user	31m11.748s
+sys	0m0.541s

@@ -1,0 +1,19 @@
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Error: unexpected 'break' in:
+"
+break"
+Execution halted
+
+real	0m0.874s
+user	0m0.711s
+sys	0m0.068s

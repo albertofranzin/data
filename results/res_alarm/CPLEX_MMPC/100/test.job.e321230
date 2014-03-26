@@ -1,0 +1,11 @@
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 

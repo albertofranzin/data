@@ -1,0 +1,52 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		child/gobnilp/child_1000_7.gob.data
+Problem name:		child_1000_7.gob
+presolving (3 rounds):
+ 3 deleted vars, 4 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 1 changed sides, 0 changed coefficients
+ 48 implications, 68 cliques
+presolved problem has 277 variables (277 bin, 0 int, 0 impl, 0 cont) and 93 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.0s|      --      |-1.722476e+04 |    Inf 
+ 0.0s|      --      |-1.711145e+04 |    Inf 
+ 0.0s|-1.256031e+04 |-1.301393e+04 |   3.61%
+ 0.0s|-1.256031e+04 |-1.296384e+04 |   3.21%
+ 0.0s|-1.270832e+04 |-1.296279e+04 |   2.00%
+ 0.0s|-1.270832e+04 |-1.291270e+04 |   1.61%
+ 0.1s|-1.290119e+04 |-1.290119e+04 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.13
+Solving Nodes      : 1
+Primal Bound       : -1.29011915781722e+04 (8 solutions)
+Dual Bound         : -1.29011915781722e+04
+Gap                : 0.00 %
+1<- -337.464215
+2<-16, -270.023415
+3<- -953.553945
+4<-18, -654.638921
+5<-18,19, -911.854754
+6<-18,20, -393.444799
+7<-15, -233.938173
+8<-3, -942.161660
+9<-3, -963.502795
+10<-4, -330.458864
+11<-5, -885.327601
+12<-17, -1046.138194
+13<-6, -339.202459
+14<-12, -786.748711
+15<-12, -346.800492
+16<-12, -559.085310
+17<-3, -982.406796
+18<-12, -671.091647
+19<-12, -684.822732
+20<-14, -608.526097
+BN score is -12901.191578
+Writing output to child_1000_7.gob.out
+

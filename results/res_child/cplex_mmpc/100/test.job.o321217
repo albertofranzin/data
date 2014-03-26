@@ -1,0 +1,415 @@
+##################
+
+
+[1] "child/child_100_11"
+
+
+
+###############
+
+
+[1] "Starting MMPC..."
+cpcMat  1 :  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 
+cpcMat  2 :  0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 
+cpcMat  3 :  0 0 0 0 1 0 0 1 1 0 1 1 0 1 0 1 1 0 1 1 
+cpcMat  4 :  0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 
+cpcMat  5 :  0 0 1 1 0 1 0 0 0 1 1 1 0 0 0 1 1 1 1 0 
+cpcMat  6 :  0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 
+cpcMat  7 :  0 1 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 0 
+cpcMat  8 :  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+cpcMat  9 :  0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+cpcMat  10 :  0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+cpcMat  11 :  0 0 1 1 1 1 0 0 0 0 0 1 0 0 0 1 1 1 1 0 
+cpcMat  12 :  1 0 1 0 1 0 1 0 1 0 1 0 0 1 1 1 1 1 1 1 
+cpcMat  13 :  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+cpcMat  14 :  0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 
+cpcMat  15 :  0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 1 0 
+cpcMat  16 :  0 0 1 0 1 0 0 0 0 0 1 1 0 0 1 0 1 0 1 0 
+cpcMat  17 :  0 0 1 0 1 0 1 0 0 0 1 1 0 1 1 1 0 0 1 0 
+cpcMat  18 :  1 0 0 1 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 
+cpcMat  19 :  0 0 1 0 1 0 0 1 0 0 1 1 0 0 0 1 1 0 0 0 
+cpcMat  20 :  0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+      [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8] [,9] [,10] [,11] [,12] [,13]
+ [1,]    0    0    0    0    0    0    0    0    0     0     0     1     0
+ [2,]    0    0    0    0    0    0    1    0    0     0     0     0     0
+ [3,]    0    0    0    0    1    0    0    1    1     0     1     1     0
+ [4,]    0    0    0    0    1    0    0    0    0     1     1     0     0
+ [5,]    0    0    1    1    0    1    0    0    0     1     1     1     0
+ [6,]    0    0    0    0    0    0    0    0    0     0     1     0     1
+ [7,]    0    1    0    0    0    0    0    0    0     0     1     1     0
+ [8,]    0    0    1    0    0    0    0    0    0     0     0     0     0
+ [9,]    0    0    1    0    0    0    0    0    0     0     0     1     0
+[10,]    0    0    0    1    1    0    0    0    0     0     0     0     0
+[11,]    0    0    1    1    1    1    0    0    0     0     0     1     0
+[12,]    1    0    1    0    1    0    1    0    1     0     1     0     0
+[13,]    0    0    0    0    0    1    0    0    0     0     0     0     0
+[14,]    0    0    1    0    0    0    0    0    0     0     0     1     0
+[15,]    0    0    0    0    0    0    1    0    0     0     0     1     0
+[16,]    0    0    1    0    1    0    0    0    0     0     1     1     0
+[17,]    0    0    1    0    1    0    1    0    0     0     1     1     0
+[18,]    1    0    0    1    1    1    0    0    0     1     1     1     1
+[19,]    0    0    1    0    1    0    0    1    0     0     1     1     0
+[20,]    0    0    1    0    0    0    0    0    0     0     0     1     0
+      [,14] [,15] [,16] [,17] [,18] [,19] [,20]
+ [1,]     0     0     0     0     1     0     0
+ [2,]     0     1     0     0     0     0     0
+ [3,]     1     0     1     1     0     1     1
+ [4,]     0     0     0     0     1     0     0
+ [5,]     0     0     1     1     1     1     0
+ [6,]     0     0     0     0     1     0     0
+ [7,]     0     1     0     1     0     1     0
+ [8,]     0     0     0     0     0     1     0
+ [9,]     0     0     0     0     0     0     0
+[10,]     0     0     0     0     1     0     0
+[11,]     0     0     1     1     1     1     0
+[12,]     1     1     1     1     1     1     1
+[13,]     0     0     0     0     1     0     0
+[14,]     0     0     0     1     0     0     0
+[15,]     0     0     1     1     0     1     0
+[16,]     0     1     0     1     0     1     0
+[17,]     1     1     1     0     0     1     0
+[18,]     0     0     0     0     0     0     0
+[19,]     0     0     1     1     0     0     0
+[20,]     0     0     0     0     0     0     0
+cpcMat  1 :  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 
+cpcMat  2 :  0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 
+cpcMat  3 :  0 0 0 0 1 0 0 1 1 0 1 1 0 1 0 1 1 0 1 1 
+cpcMat  4 :  0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 
+cpcMat  5 :  0 0 1 1 0 1 0 0 0 1 1 1 0 0 0 1 1 1 1 0 
+cpcMat  6 :  0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 
+cpcMat  7 :  0 1 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 0 
+cpcMat  8 :  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+cpcMat  9 :  0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+cpcMat  10 :  0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+cpcMat  11 :  0 0 1 1 1 1 0 0 0 0 0 1 0 0 0 1 1 1 1 0 
+cpcMat  12 :  1 0 1 0 1 0 1 0 1 0 1 0 0 1 1 1 1 1 1 1 
+cpcMat  13 :  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+cpcMat  14 :  0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 
+cpcMat  15 :  0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 0 
+cpcMat  16 :  0 0 1 0 1 0 0 0 0 0 1 1 0 0 1 0 1 0 1 0 
+cpcMat  17 :  0 0 1 0 1 0 1 0 0 0 1 1 0 1 1 1 0 0 1 0 
+cpcMat  18 :  1 0 0 1 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 
+cpcMat  19 :  0 0 1 0 1 0 0 1 0 0 1 1 0 0 0 1 1 0 0 0 
+cpcMat  20 :  0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+[1] "MMPC done"
+      [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8] [,9] [,10] [,11] [,12] [,13]
+ [1,]    0    0    0    0    0    0    0    0    0     0     0     1     0
+ [2,]    0    0    0    0    0    0    1    0    0     0     0     0     0
+ [3,]    0    0    0    0    1    0    0    1    1     0     1     1     0
+ [4,]    0    0    0    0    1    0    0    0    0     1     1     0     0
+ [5,]    0    0    1    1    0    0    0    0    0     1     1     1     0
+ [6,]    0    0    0    0    0    0    0    0    0     0     1     0     1
+ [7,]    0    1    0    0    0    0    0    0    0     0     0     1     0
+ [8,]    0    0    1    0    0    0    0    0    0     0     0     0     0
+ [9,]    0    0    1    0    0    0    0    0    0     0     0     1     0
+[10,]    0    0    0    1    1    0    0    0    0     0     0     0     0
+[11,]    0    0    1    1    1    1    0    0    0     0     0     1     0
+[12,]    1    0    1    0    1    0    1    0    1     0     1     0     0
+[13,]    0    0    0    0    0    1    0    0    0     0     0     0     0
+[14,]    0    0    1    0    0    0    0    0    0     0     0     1     0
+[15,]    0    0    0    0    0    0    1    0    0     0     0     1     0
+[16,]    0    0    1    0    1    0    0    0    0     0     1     1     0
+[17,]    0    0    1    0    1    0    1    0    0     0     1     1     0
+[18,]    1    0    0    1    1    1    0    0    0     1     1     1     1
+[19,]    0    0    1    0    1    0    0    1    0     0     1     1     0
+[20,]    0    0    1    0    0    0    0    0    0     0     0     1     0
+      [,14] [,15] [,16] [,17] [,18] [,19] [,20]
+ [1,]     0     0     0     0     1     0     0
+ [2,]     0     0     0     0     0     0     0
+ [3,]     1     0     1     1     0     1     1
+ [4,]     0     0     0     0     1     0     0
+ [5,]     0     0     1     1     1     1     0
+ [6,]     0     0     0     0     1     0     0
+ [7,]     0     1     0     1     0     0     0
+ [8,]     0     0     0     0     0     1     0
+ [9,]     0     0     0     0     0     0     0
+[10,]     0     0     0     0     1     0     0
+[11,]     0     0     1     1     1     1     0
+[12,]     1     1     1     1     1     1     1
+[13,]     0     0     0     0     1     0     0
+[14,]     0     0     0     1     0     0     0
+[15,]     0     0     1     1     0     0     0
+[16,]     0     1     0     1     0     1     0
+[17,]     1     1     1     0     0     1     0
+[18,]     0     0     0     0     0     0     0
+[19,]     0     0     1     1     0     0     0
+[20,]     0     0     0     0     0     0     0
+[1] 0
+[1] 0
+[1] 0
+[1] 0
+[1] 0
+Tried aggregator 0 times.
+No LP presolve or aggregator reductions.
+Presolve time = 0.00 sec. (0.00 ticks)
+[1] 0
+[1] "creating indicator variables for edges..."
+[1] "done"
+[1] "creating indicator variables for CPCs, with their score..."
+[1] "- evaluating node 1"
+  (has 2 possible parents, and therefore up to 4 candidate parent sets to evaluate)
+[1] 1
+0 / 2 
+[1] "- evaluating node 2"
+  (has 1 possible parents, and therefore up to 2 candidate parent sets to evaluate)
+[1] 1
+2 / 1 
+[1] "- evaluating node 3"
+  (has 10 possible parents, and therefore up to 1024 candidate parent sets to evaluate)
+[1] 1
+3 / 10 
+[1] 2
+0 / 45 
+[1] "- evaluating node 4"
+  (has 4 possible parents, and therefore up to 16 candidate parent sets to evaluate)
+[1] 1
+2 / 4 
+[1] 2
+0 / 6 
+[1] "- evaluating node 5"
+  (has 9 possible parents, and therefore up to 512 candidate parent sets to evaluate)
+[1] 1
+3 / 9 
+[1] 2
+1 / 36 
+[1] 3
+1 / 84 
+[1] 4
+0 / 126 
+[1] "- evaluating node 6"
+  (has 3 possible parents, and therefore up to 8 candidate parent sets to evaluate)
+[1] 1
+2 / 3 
+[1] 2
+1 / 3 
+[1] 3
+0 / 1 
+[1] "- evaluating node 7"
+  (has 4 possible parents, and therefore up to 16 candidate parent sets to evaluate)
+[1] 1
+3 / 4 
+[1] 2
+0 / 6 
+[1] "- evaluating node 8"
+  (has 2 possible parents, and therefore up to 4 candidate parent sets to evaluate)
+[1] 1
+1 / 2 
+[1] 2
+0 / 1 
+[1] "- evaluating node 9"
+  (has 2 possible parents, and therefore up to 4 candidate parent sets to evaluate)
+[1] 1
+1 / 2 
+[1] 2
+0 / 1 
+[1] "- evaluating node 10"
+  (has 3 possible parents, and therefore up to 8 candidate parent sets to evaluate)
+[1] 1
+2 / 3 
+[1] 2
+0 / 3 
+[1] "- evaluating node 11"
+  (has 9 possible parents, and therefore up to 512 candidate parent sets to evaluate)
+[1] 1
+3 / 9 
+[1] 2
+1 / 36 
+[1] 3
+1 / 84 
+[1] 4
+0 / 126 
+[1] "- evaluating node 12"
+  (has 13 possible parents, and therefore up to 8192 candidate parent sets to evaluate)
+[1] 1
+6 / 13 
+[1] 2
+9 / 78 
+[1] 3
+3 / 286 
+[1] 4
+1 / 715 
+[1] 5
+1 / 1287 
+[1] 6
+0 / 1716 
+[1] "- evaluating node 13"
+  (has 2 possible parents, and therefore up to 4 candidate parent sets to evaluate)
+[1] 1
+2 / 2 
+[1] 2
+0 / 1 
+[1] "- evaluating node 14"
+  (has 3 possible parents, and therefore up to 8 candidate parent sets to evaluate)
+[1] 1
+1 / 3 
+[1] 2
+0 / 3 
+[1] "- evaluating node 15"
+  (has 4 possible parents, and therefore up to 16 candidate parent sets to evaluate)
+[1] 1
+3 / 4 
+[1] 2
+1 / 6 
+[1] 3
+0 / 4 
+[1] "- evaluating node 16"
+  (has 7 possible parents, and therefore up to 128 candidate parent sets to evaluate)
+[1] 1
+4 / 7 
+[1] 2
+1 / 21 
+[1] 3
+1 / 35 
+[1] 4
+0 / 35 
+[1] "- evaluating node 17"
+  (has 9 possible parents, and therefore up to 512 candidate parent sets to evaluate)
+[1] 1
+4 / 9 
+[1] 2
+0 / 36 
+[1] "- evaluating node 18"
+  (has 8 possible parents, and therefore up to 256 candidate parent sets to evaluate)
+[1] 1
+6 / 8 
+[1] 2
+5 / 28 
+[1] 3
+2 / 56 
+[1] 4
+0 / 70 
+[1] "- evaluating node 19"
+  (has 7 possible parents, and therefore up to 128 candidate parent sets to evaluate)
+[1] 1
+5 / 7 
+[1] 2
+2 / 21 
+[1] 3
+0 / 35 
+[1] "- evaluating node 20"
+  (has 2 possible parents, and therefore up to 4 candidate parent sets to evaluate)
+[1] 1
+0 / 2 
+[1] "done"
+[1] "populating problem..."
+[1] " - adding directionality constraints..."
+[1] "   directionality constraints added"
+[1] " - adding bounding constraints..."
+[1] "   bounding constraints added"
+[1] "done"
+[1] "child/child_100_11.scores"
+Default variable names x1, x2 ... being created.
+Default row names c1, c2 ... being created.
+[1] 0
+Default variable names x1, x2 ... being created.
+Default row names c1, c2 ... being created.
+[1] 0
+Clique table members: 851.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: traditional branch-and-cut.
+Parallel mode: none, using 1 thread.
+Root relaxation solution time = 0.00 sec. (0.34 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+      0     0    -1315.4791    12                  -1315.4791       47         
+print cycles
+6 11 14 
+11 15 18 
+      0     0    -1380.5405    32                   Cuts: 103       84         
+print cycles
+4 10 17 
+6 11 14 
+      0     0    -1436.4964    22                    Cuts: 98      128         
+      0     0    -1439.0253    36                    Cuts: 56      147         
+      0     0    -1439.1718     7                    Cuts: 24      155         
+print cycles
+5 17 12 
+6 11 14 
+11 18 16 
+      0     0    -1441.0248    37                    Cuts: 14      163         
+print cycles
+5 12 17 
+6 14 11 
+11 18 15 
+      0     0    -1442.3193    37                    Cuts: 24      168         
+      0     0    -1442.9863    43                    Cuts: 39      177         
+print cycles
+4 17 10 
+10 4 18 
+11 15 18 
+print cycles
+6 11 14 
+11 15 16 
+      0     0    -1446.6244    39                     Cuts: 9      179         
+graph is acyclic: got a feasible solution in hand
+TODO: save it...
+*     0+    0                        -1465.3234    -1446.6244      179    1.28%
+      0     0    -1447.7134    62    -1465.3234      Cuts: 36      202    1.20%
+print cycles
+11 15 18 
+      0     0    -1449.0480    39    -1465.3234      Cuts: 22      208    1.11%
+      0     0    -1449.2159    39    -1465.3234  ZeroHalf: 12      212    1.10%
+graph is acyclic: got a feasible solution in hand
+TODO: save it...
+*     0+    0                        -1463.8363    -1449.2159      212    1.00%
+      0     0    -1449.3298    31    -1463.8363   ZeroHalf: 4      216    0.99%
+print cycles
+11 16 15 
+      0     0    -1449.6427    26    -1463.8363       Cuts: 8      221    0.97%
+      0     0    -1449.8912    21    -1463.8363       Cuts: 8      222    0.95%
+print cycles
+11 18 15 
+      0     0    -1450.2346    37    -1463.8363      Cuts: 10      233    0.93%
+      0     0    -1450.8216    38    -1463.8363      Cuts: 10      240    0.89%
+      0     0    -1450.9711    37    -1463.8363       Cuts: 6      243    0.88%
+print cycles
+11 16 15 
+print cycles
+11 14 15 
+15 11 16 
+print cycles
+6 11 15 14 
+11 15 18 
+print cycles
+11 15 14 
+      0     2    -1451.0612    36    -1463.8363    -1451.3155      244    0.86%
+Elapsed time = 0.09 sec. (51.14 ticks, tree = 0.00 MB, solutions = 2)
+print cycles
+11 16 18 
+print cycles
+4 17 10 
+10 4 18 
+print cycles
+4 10 18 
+print cycles
+11 15 18 16 
+print cycles
+11 15 16 
+print cycles
+11 18 16 
+print cycles
+11 16 18 15 
+
+Clique cuts applied:  50
+Cover cuts applied:  17
+Implied bound cuts applied:  6
+Zero-half cuts applied:  25
+Gomory fractional cuts applied:  3
+User cuts applied:  14
+
+Root node processing (before b&c):
+  Real time             =    0.09 sec. (49.30 ticks)
+Sequential b&c:
+  Real time             =    0.05 sec. (44.44 ticks)
+                          ------------
+Total (root+branch&cut) =    0.14 sec. (93.74 ticks)
+----
+final cost: -1463.836309
+-----
+[1] "stats & fun facts:"
+# nodes:      20 
+# cpcs vars:  104 
+# edge vars:  400 
+net:  [1][2|7][3|17][4|18][5|19][6|18][7|15][8|3][9|3][10|4][11|5][12|14,16][13|6][14][15|12][16][17|12][18|5][19|12][20] 
