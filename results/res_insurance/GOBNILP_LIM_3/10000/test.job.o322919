@@ -1,0 +1,63 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		insurance/gobnilp/insurance_10000_6.gob.data
+Problem name:		insurance_10000_6.gob
+presolving (3 rounds):
+ 0 deleted vars, 17 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 17 changed sides, 0 changed coefficients
+ 28 implications, 570 cliques
+presolved problem has 3764 variables (3764 bin, 0 int, 0 impl, 0 cont) and 569 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.1s|      --      |-2.155652e+05 |    Inf 
+ 0.1s|-1.195938e+05 |-1.356988e+05 |  13.47%
+ 0.1s|-1.257142e+05 |-1.350452e+05 |   7.42%
+ 0.2s|-1.284000e+05 |-1.350194e+05 |   5.16%
+ 0.3s|-1.290467e+05 |-1.336512e+05 |   3.57%
+ 1.1s|-1.317822e+05 |-1.335068e+05 |   1.31%
+ 2.8s|-1.328591e+05 |-1.334371e+05 |   0.44%
+ 3.1s|-1.328887e+05 |-1.331195e+05 |   0.17%
+ 4.6s|-1.329405e+05 |-1.330358e+05 |   0.07%
+ 6.5s|-1.329821e+05 |-1.330305e+05 |   0.04%
+ 7.4s|-1.330156e+05 |-1.330156e+05 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 7.38
+Solving Nodes      : 1
+Primal Bound       : -1.33015593716116e+05 (16 solutions)
+Dual Bound         : -1.33015593716116e+05
+Gap                : 0.00 %
+1<-2, -1079.176455
+2<-13, -9217.991422
+3<-1,2, -10826.124458
+4<-2,14, -9773.891607
+5<-3, -5077.440055
+6<-7,8, -1291.395524
+7<-5,9, -6158.693656
+8<-10,12, -6234.776934
+9<-3, -9288.025014
+10<-4,13, -2290.551672
+11<-8, -11777.841144
+12<-5,9, -1569.373769
+13<- -9360.506659
+14<-2,13, -1278.089600
+15<-6,16,17, -613.728038
+16<-18, -105.513543
+17<-5,9,11, -5986.581280
+18<-3,4, -7132.191854
+19<-3,4, -2789.178028
+20<-15,21, -5860.603307
+21<-8, -2127.305908
+22<-3, -5436.147789
+23<-8,24, -1945.126173
+24<-7,25, -7359.996419
+25<-5,9, -2257.677263
+26<-8, -1322.211381
+27<-4,13, -4855.454765
+BN score is -133015.593716
+Writing output to insurance_10000_6.gob.out
+

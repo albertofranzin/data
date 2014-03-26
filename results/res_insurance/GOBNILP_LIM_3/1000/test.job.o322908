@@ -1,0 +1,59 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		insurance/gobnilp/insurance_1000_15.gob.data
+Problem name:		insurance_1000_15.gob
+presolving (3 rounds):
+ 1 deleted vars, 7 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 6 changed sides, 0 changed coefficients
+ 42 implications, 197 cliques
+presolved problem has 823 variables (823 bin, 0 int, 0 impl, 0 cont) and 214 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.0s|      --      |-2.161670e+04 |    Inf 
+ 0.0s|-1.295680e+04 |-1.436766e+04 |  10.89%
+ 0.1s|-1.323025e+04 |-1.434804e+04 |   8.45%
+ 0.1s|-1.334471e+04 |-1.412379e+04 |   5.84%
+ 0.2s|-1.389052e+04 |-1.409788e+04 |   1.49%
+ 0.5s|-1.395324e+04 |-1.407372e+04 |   0.86%
+ 0.7s|-1.396240e+04 |-1.396240e+04 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.68
+Solving Nodes      : 1
+Primal Bound       : -1.39623989625821e+04 (7 solutions)
+Dual Bound         : -1.39623989625821e+04
+Gap                : 0.00 %
+1<-12,22, -160.948213
+2<-1,3, -880.968144
+3<-22, -1059.942194
+4<-14, -1027.266018
+5<-3, -527.941926
+6<-7,8, -158.973501
+7<-5,9, -696.954470
+8<-10, -619.275812
+9<-3, -948.052576
+10<-4,13, -267.865131
+11<- -1204.687413
+12<-5,9, -166.583462
+13<-14, -901.341822
+14<-2, -138.377945
+15<-6,16,17, -80.985163
+16<-17, -22.982067
+17<-5,9, -689.069815
+18<-3,4, -775.382929
+19<-3,4, -315.138224
+20<-15,21, -609.399710
+21<-8, -233.657008
+22<- -615.389171
+23<-8, -236.670076
+24<-7,25, -767.395196
+25<-5,9, -239.335299
+26<-8, -120.479032
+27<-4,13, -497.336647
+BN score is -13962.398963
+Writing output to insurance_1000_15.gob.out
+

@@ -1,0 +1,61 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		insurance/gobnilp/insurance_100_19.gob.data
+Problem name:		insurance_100_19.gob
+presolving (3 rounds):
+ 2 deleted vars, 6 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 4 changed sides, 0 changed coefficients
+ 36 implications, 120 cliques
+presolved problem has 430 variables (430 bin, 0 int, 0 impl, 0 cont) and 136 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.0s|      --      |-2.260952e+03 |    Inf 
+ 0.0s|      --      |-2.260360e+03 |    Inf 
+ 0.0s|-1.553591e+03 |-1.666882e+03 |   7.29%
+ 0.0s|-1.553591e+03 |-1.666289e+03 |   7.25%
+ 0.0s|-1.574139e+03 |-1.647146e+03 |   4.64%
+ 0.0s|-1.574139e+03 |-1.647064e+03 |   4.63%
+ 0.8s|-1.626562e+03 |-1.645850e+03 |   1.19%
+ 0.9s|-1.626593e+03 |-1.645768e+03 |   1.18%
+ 1.0s|-1.626596e+03 |-1.626596e+03 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1.03
+Solving Nodes      : 1
+Primal Bound       : -1.62659576054301e+03 (9 solutions)
+Dual Bound         : -1.62659576054301e+03
+Gap                : 0.00 %
+1<-2,16, -16.128526
+2<- -99.677669
+3<-1, -123.300786
+4<-14, -106.227498
+5<-17, -40.861329
+6<-7,8,16, -15.879610
+7<-9, -77.415498
+8<-10, -65.801250
+9<-3, -121.166025
+10<-4,13, -39.224437
+11<-14, -130.398509
+12<-25, -33.571009
+13<-14, -101.165015
+14<-2, -21.165324
+15<-5,6, -21.060927
+16<- -2.876200
+17<-9, -105.789826
+18<-3, -107.780748
+19<-4,22, -38.496546
+20<-15,21, -70.845933
+21<-1,8,26, -19.720305
+22<-3, -55.693426
+23<-7,15, -25.553090
+24<-7,25, -101.870180
+25<-5,9, -12.507596
+26<-12,15, -14.859974
+27<-4,13, -57.558526
+BN score is -1626.595761
+Writing output to insurance_100_19.gob.out
+

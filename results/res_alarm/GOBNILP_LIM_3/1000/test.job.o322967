@@ -1,0 +1,72 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		alarm/gobnilp/alarm_1000_14.gob.data
+Problem name:		alarm_1000_14.gob
+presolving (3 rounds):
+ 0 deleted vars, 41 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 41 changed sides, 0 changed coefficients
+ 72 implications, 567 cliques
+presolved problem has 3058 variables (3058 bin, 0 int, 0 impl, 0 cont) and 564 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.1s|      --      |-2.364358e+04 |    Inf 
+ 0.1s|-8.727824e+03 |-1.092061e+04 |  25.12%
+ 0.1s|-9.232987e+03 |-1.079883e+04 |  16.96%
+ 0.4s|-9.754967e+03 |-1.079686e+04 |  10.68%
+ 1.3s|-1.012161e+04 |-1.075950e+04 |   6.30%
+ 2.3s|-1.037245e+04 |-1.073469e+04 |   3.49%
+ 2.6s|-1.047774e+04 |-1.068884e+04 |   2.01%
+ 3.1s|-1.056098e+04 |-1.068876e+04 |   1.21%
+ 3.7s|-1.065922e+04 |-1.068876e+04 |   0.28%
+ 4.4s|-1.068876e+04 |-1.068876e+04 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 4.38
+Solving Nodes      : 1
+Primal Bound       : -1.06887647269978e+04 (10 solutions)
+Dual Bound         : -1.06887647269978e+04
+Gap                : 0.00 %
+1<-6, -55.622131
+2<-5, -297.896257
+3<-5, -239.226491
+4<- -501.297318
+5<-4,6, -335.402968
+6<-25, -209.624834
+7<-4,6, -351.103184
+8<- -210.936149
+9<-8,35, -144.020805
+10<-11,35, -261.211528
+11<- -306.218084
+12<-11,35, -255.030756
+13<- -343.876965
+14<-4, -45.112808
+15<-14, -1094.555421
+16<-31,33, -255.821070
+17<- -181.044593
+18<-31, -266.659817
+19<- -213.809238
+20<-19,32, -175.368580
+21<-20,24, -154.174723
+22<- -446.324118
+23<-22, -47.423709
+24<-23,25, -214.253910
+25<- -321.023863
+26<-17,25,30, -283.285547
+27<- -324.346393
+28<- -353.013294
+29<-28, -318.057754
+30<-27,29, -196.969075
+31<-17,25,30, -240.858494
+32<-25,31, -178.118771
+33<-32, -284.528030
+34<-13,15,33, -341.890861
+35<-34, -370.044963
+36<-7,35, -287.703946
+37<-15,36, -582.908278
+BN score is -10688.764727
+Writing output to alarm_1000_14.gob.out
+

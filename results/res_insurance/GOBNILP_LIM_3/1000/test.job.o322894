@@ -1,0 +1,61 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		insurance/gobnilp/insurance_1000_1.gob.data
+Problem name:		insurance_1000_1.gob
+presolving (3 rounds):
+ 2 deleted vars, 7 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 5 changed sides, 0 changed coefficients
+ 38 implications, 181 cliques
+presolved problem has 747 variables (747 bin, 0 int, 0 impl, 0 cont) and 197 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.0s|      --      |-2.163492e+04 |    Inf 
+ 0.0s|      --      |-2.163019e+04 |    Inf 
+ 0.0s|-1.312058e+04 |-1.437357e+04 |   9.55%
+ 0.0s|-1.312058e+04 |-1.436885e+04 |   9.51%
+ 0.0s|-1.345959e+04 |-1.422887e+04 |   5.72%
+ 0.0s|-1.345959e+04 |-1.422415e+04 |   5.68%
+ 0.6s|-1.406745e+04 |-1.421691e+04 |   1.06%
+ 0.6s|-1.407687e+04 |-1.421219e+04 |   0.96%
+ 0.7s|-1.408557e+04 |-1.408557e+04 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.65
+Solving Nodes      : 1
+Primal Bound       : -1.40855727216908e+04 (9 solutions)
+Dual Bound         : -1.40855727216908e+04
+Gap                : 0.00 %
+1<-2,16, -123.897035
+2<- -967.300424
+3<-9, -835.747196
+4<-2,14, -1027.897723
+5<-3, -532.650501
+6<-7,8, -162.726919
+7<-5,9, -637.462789
+8<-10, -638.862877
+9<-1, -1234.594485
+10<-4,13, -266.773321
+11<-17, -1192.523713
+12<-5,9, -169.112546
+13<-14, -917.499892
+14<-2,16, -142.460671
+15<-6,17, -95.022391
+16<- -4.026368
+17<-5,9, -746.862916
+18<-3,4, -838.392791
+19<-3,4, -299.886434
+20<-15,21, -610.663866
+21<-8, -201.216830
+22<-3, -552.409353
+23<-8, -223.957011
+24<-7,25, -758.848662
+25<-5,9, -255.069874
+26<-8, -106.459591
+27<-4,13, -543.246544
+BN score is -14085.572722
+Writing output to insurance_1000_1.gob.out
+

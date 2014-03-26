@@ -1,0 +1,59 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		insurance/gobnilp/insurance_10000_17.gob.data
+Problem name:		insurance_10000_17.gob
+presolving (3 rounds):
+ 0 deleted vars, 23 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 23 changed sides, 0 changed coefficients
+ 34 implications, 566 cliques
+presolved problem has 3725 variables (3725 bin, 0 int, 0 impl, 0 cont) and 562 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.1s|      --      |-2.156734e+05 |    Inf 
+ 0.1s|-1.191060e+05 |-1.339833e+05 |  12.49%
+ 0.3s|-1.287818e+05 |-1.336897e+05 |   3.81%
+ 0.4s|-1.294174e+05 |-1.328623e+05 |   2.66%
+ 1.0s|-1.304064e+05 |-1.328084e+05 |   1.84%
+ 5.1s|-1.324884e+05 |-1.326031e+05 |   0.09%
+ 8.1s|-1.326031e+05 |-1.326031e+05 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 8.15
+Solving Nodes      : 1
+Primal Bound       : -1.32603078679954e+05 (11 solutions)
+Dual Bound         : -1.32603078679954e+05
+Gap                : 0.00 %
+1<-2,3, -954.077611
+2<-3,4, -8793.545804
+3<-4,19, -9844.304735
+4<- -11149.571440
+5<-3, -5127.688515
+6<-7,8, -1273.325184
+7<-5,9, -6101.781837
+8<-10,12, -6163.434152
+9<-3, -9264.896068
+10<-4,13, -2405.734506
+11<-8, -11924.512146
+12<-5,9, -1573.524153
+13<-2,14, -9005.469467
+14<-2,4, -840.269619
+15<-6,16,17, -599.698512
+16<-18, -78.164395
+17<-5,9,11, -5819.174501
+18<-3,4, -7090.960101
+19<-4, -3838.706998
+20<-15,21, -5739.052434
+21<-8, -2095.758359
+22<-3, -5386.442516
+23<-8,24, -2006.393127
+24<-7,25, -7345.768311
+25<-5,9, -2221.242725
+26<-8, -1219.590608
+27<-4,13, -4739.990856
+BN score is -132603.078680
+Writing output to insurance_10000_17.gob.out
+

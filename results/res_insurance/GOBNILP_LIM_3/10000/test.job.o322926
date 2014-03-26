@@ -1,0 +1,60 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		insurance/gobnilp/insurance_10000_13.gob.data
+Problem name:		insurance_10000_13.gob
+presolving (3 rounds):
+ 0 deleted vars, 19 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 19 changed sides, 0 changed coefficients
+ 22 implications, 579 cliques
+presolved problem has 3844 variables (3844 bin, 0 int, 0 impl, 0 cont) and 573 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.1s|      --      |-2.162347e+05 |    Inf 
+ 0.1s|-1.197463e+05 |-1.344712e+05 |  12.30%
+ 0.3s|-1.291877e+05 |-1.337036e+05 |   3.50%
+ 1.1s|-1.307013e+05 |-1.336571e+05 |   2.26%
+ 3.4s|-1.325315e+05 |-1.335712e+05 |   0.78%
+ 4.7s|-1.328711e+05 |-1.330860e+05 |   0.16%
+ 8.2s|-1.329900e+05 |-1.330781e+05 |   0.07%
+10.5s|-1.330283e+05 |-1.330283e+05 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 10.46
+Solving Nodes      : 1
+Primal Bound       : -1.33028267796208e+05 (13 solutions)
+Dual Bound         : -1.33028267796208e+05
+Gap                : 0.00 %
+1<-2, -1069.445690
+2<-13,14, -7143.310557
+3<-1,2, -10850.051317
+4<-2,14, -9910.213430
+5<-3, -5131.542885
+6<-7,8, -1285.930587
+7<-5,9, -6182.844577
+8<-10,12, -6273.476980
+9<-3, -9188.209826
+10<-4,13, -2364.928053
+11<-8,10, -11836.637210
+12<-5,9, -1580.544574
+13<- -9362.627434
+14<-13, -3290.377999
+15<-6,16,17, -682.898853
+16<-18, -106.948388
+17<-5,9,11, -5890.038812
+18<-3,4, -7174.440696
+19<-3,4, -2748.127257
+20<-15,21, -5721.205434
+21<-8, -2175.381369
+22<-3, -5343.678489
+23<-8,24, -1935.901611
+24<-7,25, -7435.924408
+25<-5,9, -2266.353137
+26<-8, -1229.104940
+27<-4,13, -4848.123285
+BN score is -133028.267796
+Writing output to insurance_10000_13.gob.out
+
