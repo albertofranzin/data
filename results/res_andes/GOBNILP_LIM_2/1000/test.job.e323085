@@ -1,0 +1,5 @@
+/var/spool/gridengine/default/runner-14/job_scripts/323085: line 27: 25639 Killed                  ../myr/gobnilp1.4.1/bin/gobnilp -f=dat andes/gobnilp/andes_1000_11.gob.data
+
+real	231m52.119s
+user	211m55.396s
+sys	3m50.048s
