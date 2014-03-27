@@ -1,0 +1,9 @@
+WARNING: Input file format not recognised - assuming it is Jaakkola.
+[src/probdata_bn.c:2410] ERROR: Could not open file hepar/hepar2_100_8.scores.
+[src/probdata_bn.c:2595] ERROR: Error <-4> in function call
+[src/probdata_bn.c:2644] ERROR: Error <-4> in function call
+[src/gobnilp.c:218] ERROR: Error <-4> in function call
+
+real	0m0.013s
+user	0m0.006s
+sys	0m0.003s

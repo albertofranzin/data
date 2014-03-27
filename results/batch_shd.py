@@ -22,7 +22,7 @@ for f in output:
                 found = True
                 lis = line.rstrip('\n').strip(' ').strip('\t').split(":")
                 #print lis
-                factors = lis[1].replace('[','(').replace(']',')')
+                factors = lis[1].strip('\t').strip(' ').replace('[','(').replace(']',')')
                 #print factors
                 r_command = "Rscript compute.shd.R 2 "+instance_name+".mat \""+factors+"\""
                 #print r_command

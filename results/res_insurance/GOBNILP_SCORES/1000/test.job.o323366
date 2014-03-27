@@ -1,0 +1,63 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		insurance/insurance_1000_7.scores
+Problem name:		insurance_1000_7
+Number of variables: 27
+Number of candidate parent sets: 261
+
+presolving (2 rounds):
+ 2 deleted vars, 2 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 0 changed sides, 0 changed coefficients
+ 6 implications, 75 cliques
+presolved problem has 259 variables (259 bin, 0 int, 0 impl, 0 cont) and 80 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.0s|      --      |-2.161743e+04 |    Inf 
+ 0.0s|      --      |-2.161696e+04 |    Inf 
+ 0.0s|-1.341678e+04 |-1.452223e+04 |   8.24%
+ 0.0s|-1.376842e+04 |-1.432727e+04 |   4.06%
+ 0.0s|-1.399934e+04 |-1.432555e+04 |   2.33%
+ 0.0s|-1.401756e+04 |-1.430777e+04 |   2.07%
+ 0.0s|-1.403795e+04 |-1.409981e+04 |   0.44%
+ 0.2s|-1.408988e+04 |-1.408988e+04 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.19
+Solving Nodes      : 1
+Primal Bound       : -1.40898790509218e+04 (9 solutions)
+Dual Bound         : -1.40898790509218e+04
+Gap                : 0.00 %
+1<-2, -110.018971
+2<-14, -724.299571
+3<-25, -982.610846
+4<-14, -1029.524164
+5<-25, -203.720634
+6<-23, -755.119475
+7<-9, -624.976797
+8<-6, -223.823861
+9<-3, -968.027669
+10<-4,13, -268.453116
+11<-17, -1208.457845
+12<-5,9, -149.626478
+13<-8, -720.614386
+14<-13, -358.065522
+15<-6,17, -76.131239
+16<- -11.626770
+17<-5,9, -681.514356
+18<-3,4, -742.521082
+19<-3,4, -289.500556
+20<-15,21, -631.037344
+21<-8, -229.283120
+22<-3, -562.228916
+23<-24, -329.902713
+24<-7,25, -789.968372
+25<- -682.647961
+26<-8, -153.883474
+27<-4,13, -582.293814
+BN score is -14089.879051
+Writing output to insurance_1000_7.out
+

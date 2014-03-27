@@ -7,13 +7,13 @@ library("bnstruct")
 # mat.2: adjacency matrix file or string, depending on mode parameter
 
 args         <- commandArgs(trailingOnly = TRUE)
-mode         <- args[1]
+mode         <- as.integer(args[1])
 input.file.1 <- args[2]
 a <- read.table(input.file.1, header=FALSE, sep=" ")
 if (mode == 1) {
   input.file.2 <- args[3]
   b <- read.table(input.file.2, header=FALSE, sep=" ")
-} else {
+} else if (mode == 2) {
   b <- factors.to.graph(args[3])
 }
 

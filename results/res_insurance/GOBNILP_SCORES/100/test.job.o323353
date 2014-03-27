@@ -1,0 +1,63 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		insurance/insurance_100_14.scores
+Problem name:		insurance_100_14
+Number of variables: 27
+Number of candidate parent sets: 313
+
+presolving (3 rounds):
+ 5 deleted vars, 6 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 1 changed sides, 0 changed coefficients
+ 14 implications, 87 cliques
+presolved problem has 308 variables (308 bin, 0 int, 0 impl, 0 cont) and 95 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.0s|      --      |-2.203686e+03 |    Inf 
+ 0.0s|      --      |-2.169033e+03 |    Inf 
+ 0.0s|-1.599560e+03 |-1.726459e+03 |   7.93%
+ 0.0s|-1.633727e+03 |-1.675005e+03 |   2.53%
+ 0.0s|-1.658262e+03 |-1.674650e+03 |   0.99%
+ 0.0s|-1.659505e+03 |-1.671617e+03 |   0.73%
+ 0.2s|-1.663741e+03 |-1.664778e+03 |   0.06%
+ 0.3s|-1.663796e+03 |-1.663796e+03 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.28
+Solving Nodes      : 1
+Primal Bound       : -1.66379604068752e+03 (9 solutions)
+Dual Bound         : -1.66379604068752e+03
+Gap                : 0.00 %
+1<- -22.389487
+2<-1, -93.132613
+3<- -116.533256
+4<-14, -104.243269
+5<-12, -34.623453
+6<-1,15,19, -56.112797
+7<- -112.143917
+8<-6, -40.719976
+9<-7,12, -83.921401
+10<-8, -84.948817
+11<- -132.481457
+12<-3, -33.415386
+13<-10, -34.588743
+14<-2, -16.577957
+15<-5,23, -36.687232
+16<- -2.876200
+17<-5,9, -104.810565
+18<-3, -105.334380
+19<-3,4, -29.900480
+20<-15,21,26, -68.222050
+21<-8, -30.349583
+22<-3, -61.563748
+23<- -39.388492
+24<-7,25, -102.069132
+25<-5, -31.959452
+26<-21, -15.121122
+27<-13,15,21, -69.681075
+BN score is -1663.796041
+Writing output to insurance_100_14.out
+

@@ -1,0 +1,72 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		alarm/alarm_1000_10.scores
+Problem name:		alarm_1000_10
+Number of variables: 37
+Number of candidate parent sets: 961
+
+presolving (3 rounds):
+ 3 deleted vars, 4 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 1 changed sides, 0 changed coefficients
+ 10 implications, 170 cliques
+presolved problem has 958 variables (958 bin, 0 int, 0 impl, 0 cont) and 176 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.0s|      --      |-2.370836e+04 |    Inf 
+ 0.0s|      --      |-2.360226e+04 |    Inf 
+ 0.0s|-9.737242e+03 |-1.094501e+04 |  12.40%
+ 0.0s|-1.018502e+04 |-1.085951e+04 |   6.62%
+ 0.0s|-1.025538e+04 |-1.077731e+04 |   5.09%
+ 0.2s|-1.060272e+04 |-1.073026e+04 |   1.20%
+ 0.3s|-1.072974e+04 |-1.072974e+04 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.28
+Solving Nodes      : 1
+Primal Bound       : -1.07297439265689e+04 (7 solutions)
+Dual Bound         : -1.07297439265689e+04
+Gap                : 0.00 %
+1<-6,23, -74.535766
+2<-5, -286.942368
+3<-5, -243.605570
+4<- -504.082436
+5<-4,6, -398.884593
+6<-17,19, -197.816460
+7<-4, -394.103172
+8<- -236.115964
+9<-8,35, -203.567798
+10<-11,35, -252.478244
+11<- -313.104570
+12<-11,35, -256.661516
+13<- -350.195515
+14<-3, -40.233503
+15<-14, -1088.039232
+16<-17,31,33, -178.346003
+17<- -148.701642
+18<-31, -216.365376
+19<- -196.264381
+20<-19,32, -212.216368
+21<-20,24, -111.434049
+22<-23, -400.845033
+23<- -45.394098
+24<-23,25, -167.554795
+25<-18,30, -267.165101
+26<-17,25,30, -283.589403
+27<- -339.612410
+28<-1, -392.166860
+29<-28, -306.731898
+30<-27,29, -200.712419
+31<-17,30, -288.759102
+32<-25,31, -192.245579
+33<-32, -257.547167
+34<-13,15, -456.154251
+35<-34, -359.457750
+36<-7,35, -283.818943
+37<-15,36, -584.294592
+BN score is -10729.743927
+Writing output to alarm_1000_10.out
+

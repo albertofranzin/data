@@ -1,0 +1,62 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		insurance/insurance_10000_13.scores
+Problem name:		insurance_10000_13
+Number of variables: 27
+Number of candidate parent sets: 510
+
+presolving (2 rounds):
+ 1 deleted vars, 1 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 0 changed sides, 0 changed coefficients
+ 2 implications, 88 cliques
+presolved problem has 509 variables (509 bin, 0 int, 0 impl, 0 cont) and 91 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.0s|      --      |-2.162347e+05 |    Inf 
+ 0.0s|      --      |-2.157069e+05 |    Inf 
+ 0.0s|-1.279551e+05 |-1.387471e+05 |   8.43%
+ 0.0s|-1.319976e+05 |-1.372737e+05 |   4.00%
+ 0.2s|-1.329996e+05 |-1.353461e+05 |   1.76%
+ 0.3s|-1.330196e+05 |-1.347059e+05 |   1.27%
+ 0.3s|-1.330295e+05 |-1.330295e+05 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.33
+Solving Nodes      : 1
+Primal Bound       : -1.33029458418953e+05 (7 solutions)
+Dual Bound         : -1.33029458418953e+05
+Gap                : 0.00 %
+1<-2,3, -967.401633
+2<-3, -9325.210979
+3<-5, -9725.384776
+4<-2, -10469.907210
+5<- -6498.881892
+6<-7,8, -1285.930587
+7<-5,9, -6182.844577
+8<-10,11, -6168.874438
+9<-3, -9188.209826
+10<-4,13, -2364.928053
+11<- -11942.430375
+12<-5,9, -1580.544574
+13<-2,14, -8966.956095
+14<-2,4, -803.826727
+15<-6,16,17, -682.898853
+16<-18, -106.948388
+17<-5,9,11, -5890.038812
+18<-3,4, -7174.440696
+19<-3,4, -2748.127257
+20<-15,21, -5721.205434
+21<-8, -2175.381369
+22<-3, -5343.678489
+23<-8,24, -1935.901611
+24<-7,25, -7435.924408
+25<-5,9, -2266.353137
+26<-8, -1229.104940
+27<-4,13, -4848.123285
+BN score is -133029.458419
+Writing output to insurance_10000_13.out
+

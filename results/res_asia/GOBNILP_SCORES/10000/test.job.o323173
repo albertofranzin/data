@@ -1,0 +1,39 @@
+GOBNILP version 1.4.1 [GitHash: 60ccd3b ]
+Solving the BN structure learning problem using SCIP.
+
+SCIP version 3.0.2 [precision: 8 byte] [memory: block] [mode: optimized] [LP solver: CPLEX 12.5.0.0] [GitHash: 14f3662]
+Copyright (c) 2002-2013 Konrad-Zuse-Zentrum fuer Informationstechnik Berlin (ZIB)
+
+Reading parameter file <gobnilp.set>.
+File name:		asia/asia_10000_17.scores
+Problem name:		asia_10000_17
+Number of variables: 8
+Number of candidate parent sets: 31
+
+presolving (3 rounds):
+ 0 deleted vars, 1 deleted constraints, 0 added constraints, 0 tightened bounds, 0 added holes, 1 changed sides, 0 changed coefficients
+ 4 implications, 15 cliques
+presolved problem has 31 variables (31 bin, 0 int, 0 impl, 0 cont) and 18 constraints
+
+time |  dualbound   | primalbound  |  gap   
+ 0.0s|      --      |-3.011273e+04 |    Inf 
+ 0.0s|-2.427487e+04 |-2.427487e+04 |   0.00%
+ 0.0s|-2.427487e+04 |-2.427487e+04 |   0.00%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.01
+Solving Nodes      : 1
+Primal Bound       : -2.42748736872170e+04 (2 solutions)
+Dual Bound         : -2.42748736872170e+04
+Gap                : 0.00 %
+1<- -596.770595
+2<-1, -648.076982
+3<-4, -6714.869342
+4<- -2171.461708
+5<-3, -6398.720409
+6<-2,4, -5.521264
+7<- -3556.904445
+8<-5,7, -4182.548941
+BN score is -24274.873687
+Writing output to asia_10000_17.out
+
