@@ -1,3 +1,4 @@
+suppressMessages(library("bnstruct"))
 library("bnstruct")
 
 # usage: Rscript compute.shd.R <mode> <mat.1> <mat.2>
