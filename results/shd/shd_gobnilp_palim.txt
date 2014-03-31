@@ -1,0 +1,360 @@
+asia_100_1 6
+asia_100_2 7
+asia_100_3 7
+asia_100_4 5
+asia_100_5 6
+asia_100_6 7
+asia_100_7 9
+asia_100_8 5
+asia_100_9 9
+asia_100_10 9
+asia_100_11 5
+asia_100_12 8
+asia_100_13 11
+asia_100_14 2
+asia_100_15 14
+asia_100_16 10
+asia_100_17 4
+asia_100_18 8
+asia_100_19 6
+asia_100_20 4
+asia_1000_1 1
+asia_1000_2 3
+asia_1000_3 1
+asia_1000_4 1
+asia_1000_5 1
+asia_1000_6 3
+asia_1000_7 2
+asia_1000_8 4
+asia_1000_9 1
+asia_1000_10 7
+asia_1000_11 3
+asia_1000_12 1
+asia_1000_13 2
+asia_1000_14 4
+asia_1000_15 1
+asia_1000_16 3
+asia_1000_17 2
+asia_1000_18 1
+asia_1000_19 2
+asia_1000_20 3
+asia_10000_1 1
+asia_10000_2 1
+asia_10000_3 1
+asia_10000_4 1
+asia_10000_5 2
+asia_10000_6 1
+asia_10000_7 1
+asia_10000_8 1
+asia_10000_9 2
+asia_10000_10 1
+asia_10000_11 1
+asia_10000_12 1
+asia_10000_13 4
+asia_10000_14 1
+asia_10000_15 3
+asia_10000_16 2
+asia_10000_17 1
+asia_10000_18 2
+asia_10000_19 1
+asia_10000_20 1
+child_100_1 13
+child_100_2 20
+child_100_3 22
+child_100_4 25
+child_100_5 29
+child_100_6 17
+child_100_7 21
+child_100_8 18
+child_100_9 15
+child_100_10 23
+child_100_11 18
+child_100_12 19
+child_100_13 17
+child_100_14 20
+child_100_15 15
+child_100_16 13
+child_100_17 20
+child_100_18 18
+child_100_19 22
+child_100_20 18
+child_1000_1 8
+child_1000_2 7
+child_1000_3 4
+child_1000_4 7
+child_1000_5 9
+child_1000_6 9
+child_1000_7 8
+child_1000_8 4
+child_1000_9 7
+child_1000_10 6
+child_1000_11 6
+child_1000_12 9
+child_1000_13 9
+child_1000_14 7
+child_1000_15 6
+child_1000_16 6
+child_1000_17 9
+child_1000_18 8
+child_1000_19 7
+child_1000_20 8
+child_10000_1 3
+child_10000_2 2
+child_10000_3 3
+child_10000_4 2
+child_10000_5 3
+child_10000_6 2
+child_10000_7 2
+child_10000_8 2
+child_10000_9 3
+child_10000_10 3
+child_10000_11 4
+child_10000_12 3
+child_10000_13 3
+child_10000_14 3
+child_10000_15 2
+child_10000_16 2
+child_10000_17 4
+child_10000_18 3
+child_10000_19 2
+child_10000_20 2
+insurance_100_1 36
+insurance_100_2 43
+insurance_100_3 48
+insurance_100_4 50
+insurance_100_5 39
+insurance_100_6 45
+insurance_100_7 51
+insurance_100_8 43
+insurance_100_9 54
+insurance_100_10 38
+insurance_100_11 43
+insurance_100_12 48
+insurance_100_13 44
+insurance_100_14 43
+insurance_100_15 54
+insurance_100_16 46
+insurance_100_17 44
+insurance_100_18 51
+insurance_100_19 40
+insurance_100_20 51
+insurance_1000_1 21
+insurance_1000_2 23
+insurance_1000_3 17
+insurance_1000_4 20
+insurance_1000_5 21
+insurance_1000_6 23
+insurance_1000_7 24
+insurance_1000_8 24
+insurance_1000_9 21
+insurance_1000_10 23
+insurance_1000_11 21
+insurance_1000_12 20
+insurance_1000_13 21
+insurance_1000_14 20
+insurance_1000_15 20
+insurance_1000_16 23
+insurance_1000_17 26
+insurance_1000_18 18
+insurance_1000_19 20
+insurance_1000_20 23
+insurance_10000_1 13
+insurance_10000_2 14
+insurance_10000_3 8
+insurance_10000_4 11
+insurance_10000_5 9
+insurance_10000_6 12
+insurance_10000_7 13
+insurance_10000_8 13
+insurance_10000_9 13
+insurance_10000_10 11
+insurance_10000_11 12
+insurance_10000_12 12
+insurance_10000_13 14
+insurance_10000_14 9
+insurance_10000_15 12
+insurance_10000_16 13
+insurance_10000_17 11
+insurance_10000_18 11
+insurance_10000_19 12
+insurance_10000_20 11
+alarm_100_1 40
+alarm_100_2 49
+alarm_100_3 40
+alarm_100_4 30
+alarm_100_5 54
+alarm_100_6 34
+alarm_100_7 41
+alarm_100_8 43
+alarm_100_9 37
+alarm_100_10 50
+alarm_100_11 41
+alarm_100_12 45
+alarm_100_13 51
+alarm_100_14 42
+alarm_100_15 34
+alarm_100_16 46
+alarm_100_17 42
+alarm_100_18 40
+alarm_100_19 35
+alarm_100_20 47
+alarm_1000_1 14
+alarm_1000_2 7
+alarm_1000_3 11
+alarm_1000_4 12
+alarm_1000_5 15
+alarm_1000_6 8
+alarm_1000_7 9
+alarm_1000_8 6
+alarm_1000_9 9
+alarm_1000_10 8
+alarm_1000_11 14
+alarm_1000_12 9
+alarm_1000_13 11
+alarm_1000_14 5
+alarm_1000_15 11
+alarm_1000_16 12
+alarm_1000_17 6
+alarm_1000_18 7
+alarm_1000_19 6
+alarm_1000_20 15
+alarm_10000_1 5
+alarm_10000_2 4
+alarm_10000_3 4
+alarm_10000_4 8
+alarm_10000_5 5
+alarm_10000_6 6
+alarm_10000_7 7
+alarm_10000_8 7
+alarm_10000_9 5
+alarm_10000_10 5
+alarm_10000_11 4
+alarm_10000_12 6
+alarm_10000_13 6
+alarm_10000_14 4
+alarm_10000_15 6
+alarm_10000_16 4
+alarm_10000_17 5
+alarm_10000_18 4
+alarm_10000_19 7
+alarm_10000_20 5
+hepar2_100_1 237
+hepar2_100_2 234
+hepar2_100_3 230
+hepar2_100_4 244
+hepar2_100_5 241
+hepar2_100_6 235
+hepar2_100_7 245
+hepar2_100_8 228
+hepar2_100_9 229
+hepar2_100_10 227
+hepar2_100_11 231
+hepar2_100_12 235
+hepar2_100_13 229
+hepar2_100_14 237
+hepar2_100_15 236
+hepar2_100_16 223
+hepar2_100_17 235
+hepar2_100_18 245
+hepar2_100_19 230
+hepar2_100_20 228
+hepar2_1000_1 133
+hepar2_1000_2 106
+hepar2_1000_3 102
+hepar2_1000_4 102
+hepar2_1000_5 117
+hepar2_1000_6 100
+hepar2_1000_7 107
+hepar2_1000_8 112
+hepar2_1000_9 118
+hepar2_1000_10 97
+hepar2_1000_11 110
+hepar2_1000_12 118
+hepar2_1000_13 112
+hepar2_1000_14 109
+hepar2_1000_15 119
+hepar2_1000_16 112
+hepar2_1000_17 103
+hepar2_1000_18 102
+hepar2_1000_19 111
+hepar2_1000_20 106
+hepar2_10000_1 51
+hepar2_10000_2 49
+hepar2_10000_3 54
+hepar2_10000_4 61
+hepar2_10000_5 48
+hepar2_10000_6 55
+hepar2_10000_7 52
+hepar2_10000_8 59
+hepar2_10000_9 53
+hepar2_10000_10 59
+hepar2_10000_11 54
+hepar2_10000_12 61
+hepar2_10000_13 55
+hepar2_10000_14 59
+hepar2_10000_15 51
+hepar2_10000_16 50
+hepar2_10000_17 48
+hepar2_10000_18 50
+hepar2_10000_19 54
+hepar2_10000_20 51
+andes_100_1 
+andes_100_2 
+andes_100_3 
+andes_100_4 
+andes_100_5 
+andes_100_6 
+andes_100_7 
+andes_100_8 
+andes_100_9 
+andes_100_10 
+andes_100_11 
+andes_100_12 
+andes_100_13 
+andes_100_14 
+andes_100_15 
+andes_100_16 
+andes_100_17 
+andes_100_18 
+andes_100_19 
+andes_100_20 
+andes_1000_1 
+andes_1000_2 
+andes_1000_3 
+andes_1000_4 
+andes_1000_5 
+andes_1000_6 
+andes_1000_7 
+andes_1000_8 
+andes_1000_9 
+andes_1000_10 
+andes_1000_11 
+andes_1000_12 
+andes_1000_13 
+andes_1000_14 
+andes_1000_15 
+andes_1000_16 
+andes_1000_17 
+andes_1000_18 
+andes_1000_19 
+andes_1000_20 
+andes_10000_1 
+andes_10000_2 181
+andes_10000_3 
+andes_10000_4 
+andes_10000_5 
+andes_10000_6 
+andes_10000_7 180
+andes_10000_8 185
+andes_10000_9 
+andes_10000_10 
+andes_10000_11 191
+andes_10000_12 
+andes_10000_13 194
+andes_10000_14 181
+andes_10000_15 
+andes_10000_16 
+andes_10000_17 185
+andes_10000_18 
+andes_10000_19 187
+andes_10000_20 

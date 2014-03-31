@@ -266,6 +266,16 @@ hepar2_1000_7 NA
 hepar2_1000_8 NA
 hepar2_1000_9 NA
 hepar2_1000_10 NA
+hepar2_1000_11 NA
+hepar2_1000_12 182.93
+hepar2_1000_13 NA
+hepar2_1000_14 NA
+hepar2_1000_15 NA
+hepar2_1000_16 NA
+hepar2_1000_17 NA
+hepar2_1000_18 NA
+hepar2_1000_19 NA
+hepar2_1000_20 NA
 hepar2_10000_1 NA
 hepar2_10000_2 NA
 hepar2_10000_3 NA
