@@ -25,6 +25,13 @@ list_of_mats = subprocess.Popen(ls_matrices, stdout=subprocess.PIPE, shell=True)
 (out_m, e_m) = list_of_mats.communicate()
 out_m        = out_m.rstrip().split('\n')
 
+d = {}
+with open("memory/memres.txt") as memf:
+    for line in memf:
+       (key, val) = line.split()
+       d[int(key)] = val
+
+memfile = open("memory_results.txt", "a")
 
 for f in output:
     with open(f, "r") as resfile:
@@ -37,6 +44,7 @@ for f in output:
         tu = ""
         ts = ""
         shd = ""
+        prepr_time = ""
         # open also test.job.eNUMBER to get overall timing
         with open(dir_to_compare+"/test.job.e"+instance_num, "r") as timefile:
             tlines = timefile.readlines()
@@ -86,6 +94,10 @@ for f in output:
                     shd = int(rline.rstrip('\n').strip(' ').strip('\t').split(':')[1])
                 
         overall_time = float(tr) + float(tu) + float(ts)
-        prepr_time = overall_time - float(soltime)
+        if soltime != "":
+            prepr_time = overall_time - float(soltime)
         print instance_name, num_variables, soltime, solscore, "|", \
-               str(overall_time), str(prepr_time), "|", str(shd)
+               str(overall_time), str(prepr_time), "|", str(shd), d[int(instance_num)]
+        memfile.write(instance_name+" "+str(d[int(instance_num)])+"\n")
+
+memfile.close()

@@ -1,0 +1,22 @@
+Loading required package: bitops
+Loading required package: methods
+
+Attaching package: ‘igraph’
+
+The following object(s) are masked from ‘package:bnstruct’:
+
+    topological.sort
+
+Warning message:
+package ‘igraph’ was built under R version 3.0.1 
+Warning messages:
+1: In intToBits(curr.num) : NAs introduced by coercion
+2: NAs introduced by coercion 
+3: In intToBits(curr.num) : NAs introduced by coercion
+4: NAs introduced by coercion 
+Error: no loop for break/next, jumping to top level
+Execution halted
+
+real	0m38.110s
+user	0m37.837s
+sys	0m0.119s

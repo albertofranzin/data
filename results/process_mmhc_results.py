@@ -13,6 +13,13 @@ list_of_files = subprocess.Popen(ls_command, stdout=subprocess.PIPE, shell=True)
 (output, err) = list_of_files.communicate()
 output        = output.rstrip().split('\n')
 
+d = {}
+with open("memory/memres.txt") as memf:
+    for line in memf:
+       (key, val) = line.split()
+       d[int(key)] = val
+
+memfile = open("memory_results.txt", "a")
 
 for f in output:
     with open(f, "r") as resfile:
@@ -25,10 +32,12 @@ for f in output:
         score   = ""
         net     = ""
         shd     = ""
+        instance_num  = f.rstrip().split('.o')[-1]
         textfile = resfile.read().replace('\n','')
         instance_name = textfile.split("###############[1] \"Starting MMPC...\"")[0].replace('##################[1] ','').replace('"','').split('/')[1]
         # print instance_name
         instance_text = textfile.split("###############[1] \"Starting MMPC...\"")[1]
+        #if instance_text.count("")
         mmpc_time_textslice = instance_text.split("[1] \"MMPC done\"")[0].split("[1] \"MMPC TIME\"")[1].split(' ')
         mmpc_time_textslice = filter(None, mmpc_time_textslice)
         mmpc_tu = mmpc_time_textslice[3]
@@ -56,4 +65,7 @@ for f in output:
             if re.match("SHD:",rline) != None:
                 shd = int(rline.rstrip('\n').strip(' ').strip('\t').split(':')[1])
         # print shd
-        print score, shd
+        print score, shd, d[int(instance_num)]
+        memfile.write(instance_name+" "+str(d[int(instance_num)])+"\n")
+
+memfile.close()
