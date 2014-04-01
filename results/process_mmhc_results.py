@@ -19,7 +19,7 @@ with open("memory/memres.txt") as memf:
        (key, val) = line.split()
        d[int(key)] = val
 
-with open("./memory/memory_mmhc.txt", "a") as tfile:
+with open("./score/score_mmhc.txt", "a") as tfile:
     for f in output:
         with open(f, "r") as resfile:
             mmpc_tu = ""
@@ -66,4 +66,4 @@ with open("./memory/memory_mmhc.txt", "a") as tfile:
             # print shd
             print score, shd, d[int(instance_num)]
             total_time = str(float(mmpc_tu)+float(mmpc_ts)+float(mmpc_te))+" | "+str(float(hc_tu)+float(hc_ts)+float(hc_te))
-            tfile.write(instance_name+" "+str(d[int(instance_num)])+"\n")
+            tfile.write(instance_name+" "+str(score)+"\n")
