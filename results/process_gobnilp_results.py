@@ -31,7 +31,7 @@ with open("memory/memres.txt") as memf:
        (key, val) = line.split()
        d[int(key)] = val
 
-with open("./memory/memory_gobnilp_scores.txt", "a") as tfile:
+with open("./time/time_gobnilp_palim.txt", "a") as tfile:
     for f in output:
         with open(f, "r") as resfile:
             instance_num = f.rstrip().split('.o')[-1] # extract job number
@@ -81,7 +81,7 @@ with open("./memory/memory_gobnilp_scores.txt", "a") as tfile:
                     instance_name = lineitems[1].split('\t')[2].split('.')[0]
 
             #print dir_to_compare+"/"+instance_name+".gob.out"
-            if out_m.count(dir_to_compare+"/"+instance_name+".out") > 0:
+            if False and out_m.count(dir_to_compare+"/"+instance_name+".out") > 0:
                 r_command = "Rscript compute.shd.R 1 "+orig_file+" "+dir_to_compare+"/"+instance_name+".out"
                 #print r_command
                 r_out     =  subprocess.Popen(r_command, stdout=subprocess.PIPE, shell=True)
@@ -92,11 +92,11 @@ with open("./memory/memory_gobnilp_scores.txt", "a") as tfile:
                     if re.match("SHD:",rline) != None:
                         shd = int(rline.rstrip('\n').strip(' ').strip('\t').split(':')[1])
                     
-            overall_time = float(tr) + float(tu) + float(ts)
+            #overall_time = float(tr) + float(tu) + float(ts)
             if soltime != "":
-                prepr_time = overall_time - float(soltime)
+                prepr_time = float(tr) - float(soltime)
             #print instance_name, num_variables, soltime, solscore, "|", \
             #       str(overall_time), str(prepr_time), "|", str(shd), d[int(instance_num)]
-            total_time = soltime+" | "+str(prepr_time)+" | "+str(overall_time)
-            print instance_name,  d[int(instance_num)]
-            tfile.write(instance_name+" "+str( d[int(instance_num)])+"\n")
+            total_time = soltime+" | "+str(prepr_time)+" | "+tr
+            print instance_name,  total_time
+            tfile.write(instance_name+" | "+total_time+"\n")

@@ -8,8 +8,8 @@ get.inst.name <- function(name, s = "_") {
 
 results <- c()
 instances <- c()
-for (f in c("score/score_eocp.txt", "score/score_mmhc.txt", "score/score_gobnilp_palim.txt", "score/score_gobnilp_scores.txt")) {
-  d <- as.matrix(read.table(f, header = FALSE, sep = " ", col.names=c("instance", "score")))
+for (f in c("time/time_eocp.txt", "time/time_mmhc.txt", "time/time_gobnilp_palim.txt", "time/time_gobnilp_scores.txt")) {
+  d <- as.matrix(read.table(f, header = FALSE, sep = " "))#, col.names=c("instance", "score")))
   vals <- c()
   curr <- get.inst.name(d[1,1])
   if (!is.element(curr, instances)) {
@@ -17,7 +17,8 @@ for (f in c("score/score_eocp.txt", "score/score_mmhc.txt", "score/score_gobnilp
   }
   for (i in 1:nrow(d)) {
     inst.name <- d[i,1] <- get.inst.name(d[i,1])
-    val    <- as.numeric(d[i,2])
+    val       <- as.numeric(d[i,2])
+    print(d[i,2])
     if (curr == get.inst.name(inst.name)) {
       vals <- c(vals, val)
     } else {
@@ -43,4 +44,4 @@ rs <- NULL
 for (row in 1:nrow(results)) {
   rs[[row]] <- paste(paste(c(instances[row], results[row,]), collapse=" & "), "\\\\")
 }
-write(rs, file="score/scoretable.tex")
+write(rs, file="time/timetable.tex")
