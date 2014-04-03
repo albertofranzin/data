@@ -27,7 +27,7 @@ vals[[4]] <- list()
 k <- 1
 for (i in 1:nrow(d1)) {
   inst.name <- get.inst.name(d1[i,1])
-  val       <- as.numeric(d1[i,2])
+  val       <- as.numeric(d1[i,3])
   if (inst == inst.name && !is.na(val)) {
     vals[[k]][[length(vals[[k]])+1]] <- val
   }
@@ -36,7 +36,7 @@ for (i in 1:nrow(d1)) {
 k <- 2
 for (i in 1:nrow(d2)) {
   inst.name <- get.inst.name(d2[i,1])
-  val       <- as.numeric(d2[i,2])
+  val       <- as.numeric(d2[i,7])
   if (inst == inst.name && !is.na(val)) {
     vals[[k]][[length(vals[[k]])+1]] <- val
   }
@@ -45,7 +45,7 @@ for (i in 1:nrow(d2)) {
 k <- 3
 for (i in 1:nrow(d3)) {
   inst.name <- get.inst.name(d3[i,1])
-  val       <- as.numeric(d3[i,2])
+  val       <- as.numeric(d3[i,7])
   if (inst == inst.name && !is.na(val)) {
     vals[[k]][[length(vals[[k]])+1]] <- val
   }
@@ -54,7 +54,11 @@ for (i in 1:nrow(d3)) {
 k <- 4
 for (i in 1:nrow(d4)) {
   inst.name <- get.inst.name(d4[i,1])
-  val       <- as.numeric(d4[i,2])
+  val       <- as.numeric(d4[i,7])
+  if (is.na(as.numeric(d1[i,9])))
+    val <- val + as.numeric(d2[i,3])
+  else
+    val <- val + as.numeric(d1[i,3]) - as.numeric(d1[i,9])
   if (inst == inst.name && !is.na(val)) {
     vals[[k]][[length(vals[[k]])+1]] <- val
   }
@@ -64,4 +68,5 @@ for (i in 1:nrow(d4)) {
 
 boxplot(c(unlist(vals[[1]])), c(unlist(vals[[2]])), c(unlist(vals[[3]])), c(unlist(vals[[4]])),
         names=c("EO-CP", "MMHC", "G-Pa", "G-S"),
-        col=c("red", "blue", "green", "yellow"))
+        col=c("tomato", "orange1", "chartreuse4", "turquoise"),
+        varwidth=TRUE)
