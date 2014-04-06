@@ -1,0 +1,36 @@
+Rscript boxplots.R child_100 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdchild100.pdf
+Rscript boxplots.R andes_10000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdandes10000.pdf
+Rscript boxplots.R andes_1000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdandes1000.pdf
+Rscript boxplots.R andes_100 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdandes100.pdf
+Rscript boxplots.R asia_100 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdasia100.pdf
+Rscript boxplots.R asia_1000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdasia1000.pdf
+Rscript boxplots.R asia_10000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdasia10000.pdf
+Rscript boxplots.R child_1000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdchild1000.pdf
+Rscript boxplots.R child_10000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdchild10000.pdf
+Rscript boxplots.R insurance_100 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdinsurance100.pdf
+Rscript boxplots.R insurance_1000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdinsurance1000.pdf
+Rscript boxplots.R insurance_10000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdinsurance10000.pdf
+Rscript boxplots.R alarm_100 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdalarm100.pdf
+Rscript boxplots.R alarm_1000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdalarm1000.pdf
+Rscript boxplots.R alarm_10000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdalarm10000.pdf
+Rscript boxplots.R hepar2_10000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdhepar10000.pdf
+Rscript boxplots.R hepar2_1000 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdhepar1000.pdf
+Rscript boxplots.R hepar2_100 shd/shd_eocp.txt shd/shd_mmhc.txt shd/shd_gobnilp_palim.txt shd/shd_gobnilp_scores.txt
+mv Rplots.pdf pictures/shdhepar100.pdf
